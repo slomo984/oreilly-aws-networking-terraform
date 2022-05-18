@@ -1,5 +1,5 @@
 variable "key_name" {
-  default = "csmithaws"
+  default = "EC2Tutorial"
   type = string
 }
 
